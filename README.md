@@ -1,2 +1,2 @@
 # algorithms
-Daily algorithms to practice python3 and critical thinking. 
+Daily algorithms to practice critical thinking. 
