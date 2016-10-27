@@ -8,3 +8,4 @@ def eval(string):
         else:
             pig_string = string + 'way'
     print (pig_string)
+    
